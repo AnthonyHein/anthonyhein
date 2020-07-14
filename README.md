@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there!
+###### ... General Kenobi
 
-<!--
-**AnthonyHein/anthonyhein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[anthonyhein.com](Check out my personal website!)
 
-Here are some ideas to get you started:
+Proud lefty, duodecimal advocate, ordained minister, and riddle master with a
+refuse-to-lose attitude inspired by the two-time failure of my driver's test.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a student studying computer science at Princeton University and working towards a certificate in statistics and machine learning. Outside of class, I am the treasurer of the Princeton PUZZLES club and Princeton Guitar Club. My professionalism has been cultivated through work with Pratt & Whitney, the U.S. Air Force Civilian Service, and Kessel Run (this is real, not just a Star Wars reference). On the side, I pursue several personal projects primarily using Python.
+
+_📫 See my personal website for contact information._
+
+__Have a project? Let me know and we can collaborate!__
