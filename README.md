@@ -1,7 +1,7 @@
 ### Hello there!
 ###### ... General Kenobi
 
-[anthonyhein.com](Check out my personal website!)
+[Check out my personal website!](anthonyhein.com)
 
 Proud lefty, duodecimal advocate, ordained minister, and riddle master with a
 refuse-to-lose attitude inspired by the two-time failure of my driver's test.
