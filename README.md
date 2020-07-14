@@ -1,7 +1,11 @@
 ### Hello there!
 ###### ... General Kenobi
 
-[Check out my personal website!](anthonyhein.com)
+---
+
+##### Anthony Hein
+
+Check out my personal website!: [anthonyhein.com](anthonyhein.com)
 
 Proud lefty, duodecimal advocate, ordained minister, and riddle master with a
 refuse-to-lose attitude inspired by the two-time failure of my driver's test.
@@ -11,3 +15,5 @@ I am a student studying computer science at Princeton University and working tow
 _📫 See my personal website for contact information._
 
 __Have a project? Let me know and we can collaborate!__
+
+🙂 Thank you and have an awesome day.
